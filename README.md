@@ -1,8 +1,5 @@
 # Burger
 
-Video of the process on how to make this application.
-https://www.youtube.com/playlist?list=PLkOpMJMP5av1IzrpAlGw2KroVlx8dkgMC
-
 This project has met all the criteria listed below:
 
 Node Express Handlebars
